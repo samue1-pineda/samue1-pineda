@@ -1,2 +1,1 @@
-#hola!
-about me
+hola! mi nombre es samuel pineda 
