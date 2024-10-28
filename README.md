@@ -18,7 +18,7 @@ mi nombre es samuel pineda
 <details>
 <summary>Own future proyects</summary>
 	
-	>if u can think it you can make it
+	if u can think it you can make it
 - Build my own game
 - build my own app
 - become data scientist
