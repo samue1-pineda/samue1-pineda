@@ -1,6 +1,6 @@
 hola! 
-mi nombre es samuel pineda
--soy estudiante de ingenieria de softwarea//i'm a software engineering student
+mi nombre es samuel pineda//hello my name is samuel pineda
+-soy estudiante de ingenieria de software//i'm a software engineering student
 
 
 <details>
