@@ -21,6 +21,7 @@ mi nombre es samuel pineda//hello my name is samuel pineda
 	if u can think it you can make it
 - Build my own game
 - build my own app
-- become data scientist
+- finish my own compiler
+- build a physics engine
 
 </details>
