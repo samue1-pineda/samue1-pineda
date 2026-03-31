@@ -11,8 +11,9 @@ mi nombre es samuel pineda//hello my name is samuel pineda
 | high | Python |
 | high | c++ |
 | medium-high | Kotlin |
-| medium-high | Java |
-| medium | JavaScript |
+| medium-high | JS |
+| low | LLVM |
+
 	
 </details>
 <details>
