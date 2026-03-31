@@ -21,7 +21,9 @@ mi nombre es samuel pineda//hello my name is samuel pineda
 	if u can think it you can make it
 - Build my own game
 - build my own app
-- finish my own compiler
+- ~finish my own compiler~
+- finish my compiler backend w/ LLVM
+- create a full c based languaje(whit memory management and everything)
 - build a physics engine
 
 </details>
