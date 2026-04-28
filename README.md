@@ -20,8 +20,9 @@ mi nombre es samuel pineda//hello my name is samuel pineda
 <summary>Own future proyects</summary>
 	
 	if u can think it you can make it
+- finish the bosstraped lang
 - Build my own game
-- build my own app
+- ~build my own app~
 - ~finish my own compiler~
 - finish my compiler backend w/ LLVM
 - create a full c based languaje(whit memory management and everything)
